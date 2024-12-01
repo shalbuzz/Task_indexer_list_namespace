@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Task_indexer,list": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
